@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+
                 String nome = textNome.getText().toString();
                 String email = textEmail.getText().toString();
                 String idade_str = textIdade.getText().toString();
